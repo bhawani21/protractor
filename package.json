@@ -1,0 +1,12 @@
+{
+  "name": "sample-code-protractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "keywords": [],
+  "author": "Bhawani",
+  "license": "",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
